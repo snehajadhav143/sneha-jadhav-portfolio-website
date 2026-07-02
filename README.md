@@ -5,4 +5,5 @@
   ### Projects
   - Hotel Website ( In Progress - 60%)
   - Landing Page UI
+
 https://roadmap.sh/projects/single-page-cv
